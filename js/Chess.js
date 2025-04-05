@@ -76,10 +76,10 @@ function reddish() {
 
     // youre teammate in youre way
                     if (a % 2 == 0 && blueColor == greenColor) {
-                        color.style.backgroundColor = '#757778' 
+                        i2.style.backgroundColor = '#757778' 
                     }
                     if (a % 2 !== 0 && blueColor == greenColor) {
-                        color.style.backgroundColor = '#dee0e1'
+                        i2.style.backgroundColor = '#dee0e1'
                     }
                 }
             })
